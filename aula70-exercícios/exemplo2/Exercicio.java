@@ -15,7 +15,7 @@ public class Exercicio {
         System.out.print("Taxa: ");
         empregado.taxa = input.nextDouble();
 
-        System.out.println("Empregado: "+empregado.nome+", $"+empregado.salarioLiquido());
+        System.out.println(empregado);
 
         System.out.println("Qual porcentagem deseja incrementar no salário? ");
         double porcentagem = input.nextDouble();;

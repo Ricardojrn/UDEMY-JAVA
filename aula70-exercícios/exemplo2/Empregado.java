@@ -11,8 +11,8 @@ public class Empregado {
     public void incrementaSalario(double porcentagem){
         salarioBruto += salarioBruto*porcentagem/100;
     }
-    /*@Override
+    @Override
     public String toString() {
         return "Empregado: "+nome+", $"+salarioLiquido();
-    }*/
+    }
 }

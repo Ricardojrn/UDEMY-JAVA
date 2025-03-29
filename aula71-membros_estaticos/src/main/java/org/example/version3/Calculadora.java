@@ -1,7 +1,6 @@
-package org.example.version1;
+package org.example.version3;
 
 public class Calculadora {
-
     public static final double PI = 3.14159;
 
     public static double circunferencia(double raio){

@@ -11,6 +11,11 @@ public class Product {
         this.quantity = quantity;
     }
 
+    public Product(double price, String name) {
+        this.price = price;
+        this.name = name;
+    }
+
     public double totalValueInStrock(){
         return price * quantity;
     }

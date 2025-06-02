@@ -1,0 +1,15 @@
+Vetores
+
+Vetor é o dado a arranjos unidimensionais.
+
+Arranjo ou Array é uma estrutura de dados:
+    * homogênea (mesmo tipo de dados)
+    * Ordenada
+    * Alocada de uma só vez
+
+Vantagens:
+    * Acesso imediato aos elementos pela posição
+
+Desvantagens:
+    * Tamanho fixo
+    * Dificuldade para realizar inserções e deleções
